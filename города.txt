@@ -1,0 +1,98 @@
+Бизнес Регион	Region
+Адыгея	Maikop
+АЗЕРБАЙДЖАН	Baku
+Амурская обл	Blagoveshchensk
+АРМЕНИЯ	Yerevan
+Архангельск	Arkhangelsk
+Барнаул	Barnaul
+БЕЛАРУСЬ	Minsk
+Белгород	Belgorod
+БОЛГАРИЯ	Sofia
+Брянск	Bryansk
+ВЕНГРИЯ	Budapest
+Владивосток	Vladivostok
+Владикавказ	Vladikavkaz
+Волгоград	Volgograd
+Воронеж	Voronezh
+ГРУЗИЯ	Tbilisi
+для ВОГ-Инвест	для ВОГ-Инвест
+Домодедово	Domodedovo
+Екатеринбург	Yekaterinburg
+Жуковский	Zhukovsky
+Зеленоград	Zelenograd
+Иваново	Ivanovo
+Ижевск	Izhevsk
+ИРАК	Baghdad
+ИРАН	Tehran
+Иркутск	Irkutsk
+Истра	Istra
+Казань	Kazan
+КАЗАХСТАН	Nur-Sultan
+Калининград	Kaliningrad
+Калуга	Kaluga
+Кемерово	Kemerovo
+Киров	Kirov
+КИТАЙ	Beijing
+Климовск	Klimovsk
+Клин	Klin
+Кострома	Kostroma
+Красногорск	Krasnogorsk
+Краснодар	Krasnodar
+Красноярск	Krasnodar
+Курск	Kursk
+КЫРГЫЗСТАН	Bishkek
+ЛАТВИЯ	Riga
+Липецк	Lipetsk
+ЛИТВА	Vilnius
+Люберцы	Lyubertsy
+Магадан	Magadan
+МОЛДОВА	Kishinev
+Москва и МО	Moscow
+Мытищи	Mytishchi
+Набережные Челны	Naberezhnye Chelny
+Нижний Новгород	Nizhny Novgorod
+Новокузнецк	Novokuznetsk
+Новосибирск	Novosibirsk
+Ногинск	Noginsk
+Омск	Omsk
+Орел	Orel
+Оренбург	Orenburg
+Пенза	Penza
+Пермь	Perm
+Петрозаводск	Petrozavodsk
+ПОЛЬША	Warsaw
+Псков	Pskov
+Пушкино	Рushkino
+Ростов	Rostov
+Рязань	Ryazan
+Самара	Samara
+Санкт-Петербург	Saint-Peterburg
+Саранск	Saransk
+Саратов	Saratov
+Сахалинская обл	Yuzhno-Sakhalinsk
+Свердловская обл	Nizhni Tagil
+СЕРБИЯ	Belgrad
+Смоленск	Smolensk
+Ставрополь	Stavropol
+Сургут	Surgut
+Сыктывкар	Syktyvkar
+ТАДЖИКИСТАН	Dushanbe
+Тверь	Tver
+Троицк	Troitsk
+Тула	Tula
+ТУРКМЕНИСТАН	Ashgabat
+ТУРЦИЯ	Istanbul
+Тюмень	Tyumen
+Удмуртская Респ	Sarapul
+УЗБЕКИСТАН	Tashkent
+УКРАИНА	Kiev
+Ульяновск	Ulyanovsk
+Уфа	Ufa
+Хабаровский край	Komsomolsk-on-Amur
+Химки	Khimki
+Челябинск	Chelyabinsk
+Череповец	Cherepovets
+Шолохово	Sholokhovo
+ЮЖНАЯ ОСЕТИЯ	Tskhinvali
+Ярославль	Yaroslavl
+	
